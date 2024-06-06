@@ -1,7 +1,8 @@
 Linked lists are a series of Nodes that each contain an (identification) item, and a pointer pointing to another node. if there is no other node, it is null.
 
-'''public class Node() {
+"""
+public class Node() {
 Item item;
 Node next;
 }
-'''
+"""
