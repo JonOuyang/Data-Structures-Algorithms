@@ -1,0 +1,9 @@
+Stacks can Queues can be implemented using Arrays or linked lists. 
+
+# Stacks
+Stacks stack up, so the first one in is the last one out, and the last one in is the first one out. Think of it like a stack of donuts or rings on a spike. 
+
+# Queues 
+Queues are the opposite, so the first one in is the first one out. 
+
+Both can be created using Arrays, Arraylists, linked lists, etc.
